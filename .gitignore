@@ -1,2 +1,2 @@
 #adding all .class files to git ignore 
-.class
+*.class
